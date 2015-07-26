@@ -1,0 +1,10 @@
+/* some style */
+
+#app {
+  width: 210px;
+  height: 210px;
+}
+
+#app svg {
+  border: 1px solid black;
+}
